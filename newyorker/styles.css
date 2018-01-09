@@ -1,0 +1,33 @@
+*{
+	padding:0;
+	margin: 0;
+}
+
+.text{
+	background: black;
+	color: white;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+section{
+	display:grid;
+	grid-template-columns: 50% 50%;
+	grid-template-rows: 500%;
+	height: 500%  
+}
+.feature-img{
+	background: url('img/cover.jpg');
+	background-size: cover;
+}
+
+h1{
+	text-transform: uppercase;
+}
+
+.subtitle{
+
+}

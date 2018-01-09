@@ -1,0 +1,57 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+body{
+	font-family: sans-serif;
+	background-image: linear-gradient(white,pink,red,orange);
+	color: white;
+	size: 20pt
+	justify-content:center;
+}
+
+section{
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-width: 5em
+
+
+}
+
+.flex-container {
+  display: flex; /* or inline-flex */
+  width: 900px;
+  flex-direction: row;
+  padding: 2em;
+  justify-content: space-around;
+  justify-content: space-between;
+
+
+}
+
+.text{
+	font-family: serif;
+	color: rgb(255,35,0);
+	size: 70pt
+
+
+}
+
+p{
+	margin-bottom: 1rem;
+	size: 10em
+	justify-content:center;
+}
+.one {
+    text-decoration: line-through;
+}
+
+.end{
+	text-decoration: underline;
+}
+
+
