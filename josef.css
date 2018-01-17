@@ -1,0 +1,44 @@
+body{
+    background: #FAF9F4;
+	font-family: Helvetica, sans-serif;
+}
+
+#form{
+	overflow: auto;
+	float: left;
+}
+.blackrec {
+	width: 5px;
+	height: 800px;
+	background: black;
+	float: left;
+}
+
+/*square {
+	width: 250px;
+	height: 250px;
+	background: red;
+}*/
+
+.section{
+	float: left;
+	margin: 0 5px 0 5px;
+}
+
+#green{
+	width: 50px;
+	height: 200px;
+	background: green;
+	margin-bottom: 50px;
+}
+
+#blue{
+	width: 50px;
+	height: 120px;
+	background:blue;
+}
+
+#text{
+	float: left;
+
+}
