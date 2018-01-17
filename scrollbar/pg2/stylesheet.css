@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+h1{
+	text-align: center;
+	font-size: 575%;
+	color: transparent;
+	text-transform: uppercase;
+	letter-spacing:10px;
+	text-align: center;
+	-webkit-text-stroke: 7px #ffdfcc;
+	display: table-cell;
+	vertical-align: middle;
+	
+}
+
+h2{
+	text-align: center;
+	font-family: arial;
+	font-size: 250%;
+	color: #fff8f7;
+	/*text-transform: lowercase;*/
+	letter-spacing:4%;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#one
+{
+height: 100vh;
+width: 100%;
+background-image: url(6.jpg); 
+background-size: cover;
+background-attachment: fixed;
+display: table;
+ 
+}
+
+#two
+{
+height: 100vh;
+width: 100%;
+background-image: url(2.jpg); 
+background-size: cover;
+background-attachment: fixed;
+display: table;
+ 
+}
+
+#three
+{
+height: 100vh;
+width: 100%;
+background-image: url(4.jpg); 
+background-size: cover;
+background-attachment: fixed;
+display: table;
+ 
+}
+
+/*fonts
+font-family: 'Arima Madurai', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Bubblegum Sans', cursive;
+font-family: 'Montserrat', sans-serif;*/
+

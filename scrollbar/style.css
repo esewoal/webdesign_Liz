@@ -1,0 +1,28 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	background: #007975
+	
+}
+
+.center
+{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	width: 0;
+	height:160px;
+	border-left: 6px /*dashed*/ rgb(255,255,255,.1);
+}
+
+.arrow
+{
+    position: absolute;
+	top: 0%;
+	left:-6%;
+	height: 40px;
+	width: 6px ;	
+}
+
